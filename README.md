@@ -5,6 +5,8 @@
 - Used dompurify to avoid any malicious character in markdown
 
 - To start the server
+
 ```
 npm run devStart
 ```
+
